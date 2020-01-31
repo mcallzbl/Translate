@@ -1,6 +1,6 @@
 {
-    "versionCode":1.07,
-    "versionName": v1.07,
-	"updateInf":["翻译记录优化,解决了一些bug和发现bug的人"],
+    "versionCode":1.08,
+    "versionName": v1.08,
+	"updateInf":["功能优化,UI更新,解决了一些bug和发现bug的人"],
     "url": "https://raw.githubusercontent.com/mcallzbl/Translate/master/update.apk"
 }
